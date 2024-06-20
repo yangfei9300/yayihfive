@@ -1,0 +1,16 @@
+.goodimg{
+	width: 150rpx;
+	height: 150rpx;
+	background-color: #f5f5f5;
+	border-radius: 15rpx;
+	margin-right: 15rpx;
+}
+.topban{
+	 position: fixed;
+	 top:0rpx;
+	 left:0rpx;
+	 width:750rpx;
+	 z-index:1000;
+	background-color: #ffffff;
+	padding:20rpx 20rpx 10rpx 20rpx;
+}
